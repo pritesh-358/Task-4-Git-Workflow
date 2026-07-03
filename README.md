@@ -1,5 +1,18 @@
-# Task 4 Git Workflow
+# Task 4 - Git Workflow
 
-This repository is created for DevOps Internship Task 4.
+## Objective
+This project is created for DevOps Internship Task 4.
 
-Author: Pritesh Thamke
+## Tools Used
+- Git
+- GitHub
+- Visual Studio Code
+
+## Branch Workflow
+
+- main → Production
+- dev → Development
+- feature/readme-update → Feature Development
+
+## Author
+Pritesh Thamke
